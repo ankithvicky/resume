@@ -1,49 +1,46 @@
-# Vigneshrajan  
-**Lead Developer | Full Stack (MERN / MEAN) | System Design | AI Enthusiast**  
-
-📍 India | 📧 [Your Email] | 📱 [Your Phone] | 💼 [LinkedIn] | 💻 [GitHub/Portfolio]
-
----
-
-## Summary  
-Lead Developer with 8+ years of experience in full-stack development (MERN/MEAN) and ERP solutions including ledger management, order management, and payments. Skilled in system architecture, scalable application design, and leading tech teams. Strong interest in AI, data-driven systems, and modern DevOps practices.  
+# Vigneshrajan
+**Software Developer | MERN/MEAN Stack | 8+ Years of Experience**  
+📍 India | ✉️ [Your Email] | 📞 [Your Phone] | 🌐 [LinkedIn/GitHub]
 
 ---
 
-## Skills  
-- **Languages:** JavaScript, TypeScript, Python, SQL  
-- **Frameworks & Libraries:** ReactJS, Node.js, NestJS, Express, Angular  
-- **Databases:** MongoDB, MySQL, Redis  
-- **Tools & Platforms:** Docker, Kubernetes, Git, Jenkins, Terraform  
-- **Concepts:** System Design, Microservices, CQRS, Matchmaking Systems, ERP Solutions  
+## **Professional Summary**
+Software Developer with over 8 years of experience specializing in MERN and MEAN stack development. Proven expertise in ERP solutions, including ledger management, order management, and payments. Skilled in designing scalable systems, containerized deployments, and modern backend frameworks. Strong focus on delivering high-performance applications and mentoring development teams.
 
 ---
 
-## Experience  
+## **Work Experience**
 
-### Lead Developer | [Current Company] | 2019 – Present  
-- Leading a team of developers to build scalable ERP and order management platforms.  
-- Designed supplier-led matchmaking system (MySQL + Node.js) for buyer-seller matching.  
-- Implemented containerized environments with Docker and optimized CI/CD pipelines.  
-- Architected high-volume stock management system (tracking physical, account, committed, and available stock).  
+### **Software Developer**  
+*ERP Solutions & Product Development*  
+*2016 – Present*
 
-### Software Developer | [Previous Company] | 2016 – 2019  
-- Developed ERP modules for ledger, payments, and logistics.  
-- Built enterprise applications using JSF, JavaScript, and Angular.  
-- Collaborated with cross-functional teams to deliver end-to-end solutions.  
-
----
-
-## Education  
-**B.E. Computer Science & Engineering**  
-Narasus Sarathy Institute of Technology, 2016  
+- **ERP Systems**: Designed and developed modules for ledger management, order management, and payment workflows.  
+- **Tech Stack**: Extensive experience with MongoDB, Express, Angular, React, Node.js, NestJS, Docker, and microservices.  
+- **Team Contribution**: Actively managed development cycles, optimized code for scalability, and implemented CI/CD pipelines.  
+- **System Design**: Worked on matchmaking engines, stock management platforms, and supplier-led order systems.  
+- **Mentorship**: Guided junior developers and led technical discussions to improve team productivity.  
 
 ---
 
-## Certifications  
-- Complete Agentic AI Bootcamp with LangGraph & LangChain – Krish Naik, 2025  
-- NestJS Zero to Hero – Modern TypeScript Backend Development, 2021  
-- JavaScript Algorithms and Data Structures Masterclass – Colt Steele, 2021  
-- MongoDB: The Complete Developer’s Guide – Academind, 2020  
+## **Education**
+- **B.E. Computer Science & Engineering** – Narasus Sarathy Institute of Technology, 2016  
+
+---
+
+## **Certifications**
+- **Complete Agentic AI Bootcamp with LangGraph & LangChain** – Krish Naik, KrishAI Technologies (Jul 2025)  
+- **NestJS Zero to Hero – Modern TypeScript Back-end Development** (May 2023)  
+- **JavaScript Algorithms and Data Structures Masterclass** – Colt Steele (Jul 2021)  
+- **MongoDB – The Complete Developer's Guide** – Maximilian Schwarzmüller (Jun 2020)  
+
+---
+
+## **Skills**
+- **Programming & Frameworks**: JavaScript, TypeScript, Node.js, NestJS, Express.js, Angular, React, Next.js  
+- **Databases**: MongoDB, MySQL, Redis  
+- **DevOps & Cloud**: Docker, Docker Compose, Kubernetes (basic), CI/CD pipelines  
+- **System Design**: Event-driven architecture, CQRS, microservices, matchmaking engines, stock management  
+- **Other**: REST APIs, GraphQL, Agile methodologies  
 
 ---
